@@ -35,15 +35,12 @@
 2. **[Project Two](https://github.com/adarshkumaryadav/project-two)** - Kubernetes deployment scripts and Helm charts.
 3. **[Project Three](https://github.com/adarshkumaryadav/project-three)** - Docker Compose setup for multi-container applications.
 
-## 📈 GitHub Stats
-
-![Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adarshkumaryadav&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 ## 🎯 Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/adarshkumaryadav)
+- [LinkedIn](https://www.linkedin.com/in/adarshkumaryadav-golang)
 - [Twitter](https://twitter.com/adarshkumaryadav)
-- [Personal Website](https://adarshkumaryadav.dev) (if applicable)
+
 
 ![GoLang](https://media.giphy.com/media/Y7G82a8Q3d2JO/giphy.gif)
 ![Kubernetes](https://media.giphy.com/media/xUPGcijW8pHeTxvVZy/giphy.gif)
