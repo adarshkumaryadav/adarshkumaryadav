@@ -42,9 +42,6 @@
 - [Twitter](https://twitter.com/adarshkumaryadav)
 
 
-![GoLang](https://media.giphy.com/media/Y7G82a8Q3d2JO/giphy.gif)
-![Kubernetes](https://media.giphy.com/media/xUPGcijW8pHeTxvVZy/giphy.gif)
-![Docker](https://media.giphy.com/media/8L0qivdZx8Q0M/giphy.gif)
 
 ## 💬 Collaborate with Me
 
